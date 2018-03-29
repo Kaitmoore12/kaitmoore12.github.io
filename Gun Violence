@@ -1,0 +1,306 @@
+<head>
+	<title>Finding Hope in Gun Violence</title>
+
+	<style>
+
+	/*DESKTOP*/
+
+	/*FONTS*/
+
+	body {
+		text-align:center;
+	}
+
+	#container {
+		max-width:70%;
+		margin:0 auto;0 auto
+	}
+
+	#container img {
+		margin:0 auto;
+	}
+
+	h1, h2, h3, h4, p {
+		text-align:left;
+
+	}
+
+	.photo {
+		width:850px;
+		margin:0 auto;
+	}
+
+	.photo img {
+		width:850px;
+	}
+
+	@font-face {font-family:"Franklin Bold";src:url(fonts/ITCFranklinGothicSTD-Med.otf);}
+		@font-face {font-family:"Franklin Light";src:url(fonts/franklin-gothic-light.tff);}
+		body {margin:40px;color:#2a2a2a;}
+		h1{font-family:"Franklin Bold", sans-serif;font-size:1.8em;font-weight:800;}
+		
+		p {font-family:"franklin Light", Helvetica, Arial, sans-serif;font-size:1.1em;line-height:1.3em word-spacing:-1px;font-weight:100;}
+
+
+		.top {padding-top:30px;
+				border-top:1.5px solid #D5D5D5;}
+
+				p {
+    				margin-top: 30px;
+    				margin-bottom: 30px;
+
+                  }
+                 img {
+                 	margin-top: 30px;
+    				margin-bottom: 30px;
+
+                 }
+                 head {
+                 	margin-top: 30px;
+    				margin-bottom: 50px;
+
+    		}
+    			h1{margin-top:0;
+    				margin-bottom: 50px;
+
+    			font-family:Helvetica;
+
+    			}
+    			h2 {
+    			margin-top:0px;
+    			margin-bottom: 50px;
+
+    			font-family:Helvetica;
+    			font-size:0.8em;
+    			}
+    			h3 {margin-top:0;
+    				margin-bottom: 50px;
+
+    				font-family:Helvetica;
+    				font-size:1em;
+    				font-weight:100;}
+    		}
+    			h4 {margin-top:0;
+    				margin-bottom: 50px;
+
+    				font-family:Helvetica;
+    				font-size:0.8em;}
+               
+
+		
+
+		.callout {font-weight:800;font-family:"Franklin Bold",Helvetica, Arial, sans-serif; }
+		.highlight1 {
+			background-color:RGBA(196,176,199,.5);
+			padding:5px;
+			border-radius:3px;
+		}
+
+		.highlight2 {background-color:RGBA(169,189,176,.5);
+			padding:5px;border-radius:3px 10px;}
+
+
+			.middle {
+				text-align:center;
+				clear:both;
+			
+			}
+			
+			
+
+			}
+			
+			.bottom {
+				clear:both;
+				margin-top:50px;
+				border-top:1.5px solid #D5D5D5;
+				padding-top:30px;
+			}
+			
+			
+			}
+			.total{
+				font-family:"Franklin Bold",Helvetica, Arial, sans-serif;
+				font-size:1.5em;
+			}
+			
+
+}
+		
+			}
+			/*TABLET*/
+
+			 @media (max-width:800px) {
+			 	body {
+			 		margin:10px;
+			 	}
+			 	.left {
+			 		width:100%;
+			 		float:none;
+			 	}
+			 	.right {
+			 		width:100%;
+			 		float:none;
+			 		margin-left:0px;
+			 		text-align:center;
+			 	}
+			 	.map-wrap {
+			 		width:%
+			 		margin-right:3%;
+			 	}
+			 	.clear {
+			 		clear:both;
+			 	}
+
+
+			 }
+			 @media (max-width:480px)
+			 {
+			 	.map-wrap {
+			 		width:90%;
+			 		padding: 0% 5%;
+			 	}
+
+			 	.map-wrap img{
+			 		display:none;
+			 	}
+			 	.bottom-chart img {
+			 		width:90%;
+			 	}
+
+			 }
+
+	</style>
+</head>
+<body>
+
+	<div id="container">
+
+		<h1>Finding Hope in Gun Violence</h1>
+		<h2 style="font-family:Helvetica">By Kait Moore</h2> 
+		<h3>Philadelphians find hope in neighborhoods with high gun violence.</h3>	
+		<p>Alfonso Glenn was standing outside a corner store in Strawberry Mansion when a bullet blew through his arm and lower abdomen. Now, 30 years later, the wound sits as a faint scar among the names of his eleven children tattooed on his arm.</p>
+			
+		<p>Growing up during the peak of Philadelphia’s crack epidemic, Glenn found himself dealing drugs on the corner because it was the “cool thing” to do.</p>
+			
+		<p>Now, Glenn is a block captain and commnunity leader. It was his kids that inspired him to change. </p>
+			
+		<div class="photo">
+			<img src="img/AlfonsoGlenn2018-2.jpg" width="850" height="600" align="center">
+			<h4 style="font-family:helvetica">Alfonso Glenn sits on his front porch at the Raymond Rosen Homes in Strawberry Mansion.</h4>
+		</div>
+		
+
+		<p> "I've been [in Strawberry Mansion] for 54 years. When I was a product of my environment, I helped destroy my community because I was out there doing stuff I had no business doing."</p>
+
+		<p> Now, Glenn views himself as a father-figure to both his kids and others from the neighborhood.</p>
+
+		<p>"You can't teach your child what not to do, if you're doing what you don't want them to do." </p>
+
+		<div class="photo">
+			<img src="img/AlfonsoGlenn2018-1.jpg" width="850" height="600">
+			<h4 style="font-family:helvetica">  Glenn points to the bullet scar on his forearm. </h4> 
+		</div>
+			
+
+			<p> For some Philadelphians, being shot is just part of life. Violent crimes are the highest in the 24th and 22nd police districts in North Philadelphia. Both districts oversee the poorest neighborhoods with the highest minority populations in the city.</p>
+			<img src="img/GunViolenceGraphic1.jpg">
+
+
+			<p>
+			<iframe width="100%" height="520" frameborder="0" src="https://tuf08947.carto.com/builder/1965e9da-3f44-4287-beea-d1a7c48f95f3/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+			</p>
+
+			<p>
+				At 17th and Montgomery streets sits the 22nd district police station. From 2015 until March of 2018, the 22nd district has seen 449 shootings.
+			</p>
+				
+			<p>
+				“Last night was a good one,” Officer Cynthia Brown tells Lt. Dennis Gallagher. “We only had a burglary.”
+
+			</p>
+			<p>
+				For Gallagher, this is a good day. But it’s only 11am.  
+			</p>
+			<p>
+				“I try to remind myself I can’t stop it all, but I can make it safer,” he said. This year he said he has seen shootings go down—and for him, thats a victory.
+			</p>
+
+			<p>
+				Gallagher was on the phone with Officer Robert Wilson 30 minutes before he was gunned down by two men in a gamestop on Lehigh Avenue in 2015. For Gallagher, this was the most impactful moment of his career. 
+
+			</p>
+			<p>
+				“We all have scars. You really see how thin the line between life and death is each day,” he said.
+			</p>
+			<p>
+				
+			For those living in neighborhoods burdened with violence, that reality weighs heavy, 24 hours per day.
+
+			</p>
+			<p>
+				“The simple things, like waiting at the bus stop at 4pm, people here have to worry about whether or not they’ll be shot,” Gallagher said.
+			</p>
+
+			<p>
+				
+			Even still, in his 5 years at the 22nd district, he’s seen hope. 
+
+			</p>
+
+		<p>
+			There are police supported programs that aim to strengthen community relations and educate children on gun violence, including the Young Explorers Program which trains youth in the community to become police officers. Two current officers in the 22nd district graduated from this program.
+		</p>
+
+		<p>
+			Another, Cradle to the Grave, brings at-risk youth into the Temple University Hospital trauma bays and uses real-life and death scenarios to educate children on what it really means to be shot. 
+
+		</p>
+
+		<p>
+			“[Children] really don’t see the connection, the pain, and the family reactions,” Officer Cynthia Brown said. “It can seem like a cartoon, that guns don’t really hurt people.” The program helps kids connect the true consequences of gun violence—both physically and emotionally, she said.
+		</p>
+	
+		<p>
+			Gallagher sees a neighborhood that wants change. There are leaders in the 22nd district who work against the violence and many community members who work with law enforcement, he said.
+		</p>
+
+		<p> One of those leaders is Ronald Crawford. Standing before a small class at Temple University, hip-hop therapist Ronald Crawford describes the moment after a person is shot, before the police even arrive.</p>
+
+		<p>
+			
+		“There’s an overwhelming smell of blood, and then a scream—the sound of a mother. You just can’t picture it before it happens, your boy’s brains splattered everywhere.
+
+		</p>
+
+		<p>
+			Crawford teaches a class on hip-hop therapy at Temple University and leads a mental health workshop at the Cecil B. Moore Rec Center. He uses hip-hop, a genre of music with deep roots in North Philadelphia, to promote healing.
+		</p>
+		<p>
+			Crawford feels that victims and witnesses to trauma aren't allowed to talk about it enough. He wants to us hip-hop as a way to combat the toxic mentality of being tough.
+			
+		</p>
+		<p> 
+			For PJ Rainey, hip-hop is a way to express feelings. Rainey grew up in Strawberry Mansion where her father, Christopher Rainey "Quest," has an open hip-hop studio for the neighborhood to keep kids off the streets.</p>
+			<div class="photo">
+			<img src="img/PJrainey-2.jpg">
+			<h4 style="font-family:helvetica"> PJ Rainey sits in the hip-hop studio of her father's house in Strawberry Mansion.</h4> 
+		</div>
+
+		<p> 5 years ago, Rainey was shot in the eye while walking home from the playground. She was shot during a drive-by at the corner of 23rd and Norris streets, a block away from her house. She was 13-years-old. </p>
+
+		
+		<p> "It's a lot of obstacles coming through a neighborhood like this. It's like when you coming from North Philly, you got to be some type of tough. Music is like how we express our feelngs. Thats how most people get it out."</p>
+
+		<p> Rainey isn't alone in her experience. Since 2015, 266 minors were victims of shootings. Chronic exposure to gun violence has been linked to brain changes in developing minds. </p>
+<img src="img/TraumainChild.jpg">
+
+		<p> For many, leaving the neighborhood where they were shot just isn't an economic possiblity. For Gallagher, it's a daily reminder of why he is a Lietenant in the 22nd district.</p>
+
+		<p>"Poverty leads to broken families, broken education systems, and then businesses don't invest in areas and you don't have any economic development, which all leads to gun violence," Gallagher said. </p>
+<img src="img/Cycle.jpg">
+		<P> "My first day in the 22nd district, my Captain told me, 'You can't save everyone, but you can make a difference.' For those who can't leave the 22nd district, I have to make it safer," Gallagher said.</P>
+	</div>
+
+	
+</body>
